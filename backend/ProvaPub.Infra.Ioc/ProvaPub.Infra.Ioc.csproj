@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProvaPub.Application\ProvaPub.Application.csproj" />
+    <ProjectReference Include="..\ProvaPub.Domain\ProvaPub.Domain.csproj" />
+    <ProjectReference Include="..\ProvaPub.Infra.Data\ProvaPub.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

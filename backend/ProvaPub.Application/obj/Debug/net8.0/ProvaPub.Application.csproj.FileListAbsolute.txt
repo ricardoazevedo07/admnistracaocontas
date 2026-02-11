@@ -1,0 +1,15 @@
+C:\Users\RICARDOAZEVEDO\Desktop\Prova Bonifiq\prova-backend-main - clean arch\ProvaPub.Application\obj\Debug\net8.0\ProvaPub.Application.csproj.AssemblyReference.cache
+C:\Users\RICARDOAZEVEDO\Desktop\Prova Bonifiq\prova-backend-main - clean arch\ProvaPub.Application\obj\Debug\net8.0\ProvaPub.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RICARDOAZEVEDO\Desktop\Prova Bonifiq\prova-backend-main - clean arch\ProvaPub.Application\obj\Debug\net8.0\ProvaPub.Application.AssemblyInfoInputs.cache
+C:\Users\RICARDOAZEVEDO\Desktop\Prova Bonifiq\prova-backend-main - clean arch\ProvaPub.Application\obj\Debug\net8.0\ProvaPub.Application.AssemblyInfo.cs
+C:\Users\RICARDOAZEVEDO\Desktop\Prova Bonifiq\prova-backend-main - clean arch\ProvaPub.Application\obj\Debug\net8.0\ProvaPub.Application.csproj.CoreCompileInputs.cache
+C:\Users\RICARDOAZEVEDO\Desktop\Prova Bonifiq\prova-backend-main - clean arch\ProvaPub.Application\bin\Debug\net8.0\ProvaPub.Application.deps.json
+C:\Users\RICARDOAZEVEDO\Desktop\Prova Bonifiq\prova-backend-main - clean arch\ProvaPub.Application\bin\Debug\net8.0\ProvaPub.Application.dll
+C:\Users\RICARDOAZEVEDO\Desktop\Prova Bonifiq\prova-backend-main - clean arch\ProvaPub.Application\bin\Debug\net8.0\ProvaPub.Application.pdb
+C:\Users\RICARDOAZEVEDO\Desktop\Prova Bonifiq\prova-backend-main - clean arch\ProvaPub.Application\bin\Debug\net8.0\ProvaPub.Domain.dll
+C:\Users\RICARDOAZEVEDO\Desktop\Prova Bonifiq\prova-backend-main - clean arch\ProvaPub.Application\bin\Debug\net8.0\ProvaPub.Domain.pdb
+C:\Users\RICARDOAZEVEDO\Desktop\Prova Bonifiq\prova-backend-main - clean arch\ProvaPub.Application\obj\Debug\net8.0\ProvaPub.06437EA9.Up2Date
+C:\Users\RICARDOAZEVEDO\Desktop\Prova Bonifiq\prova-backend-main - clean arch\ProvaPub.Application\obj\Debug\net8.0\ProvaPub.Application.dll
+C:\Users\RICARDOAZEVEDO\Desktop\Prova Bonifiq\prova-backend-main - clean arch\ProvaPub.Application\obj\Debug\net8.0\refint\ProvaPub.Application.dll
+C:\Users\RICARDOAZEVEDO\Desktop\Prova Bonifiq\prova-backend-main - clean arch\ProvaPub.Application\obj\Debug\net8.0\ProvaPub.Application.pdb
+C:\Users\RICARDOAZEVEDO\Desktop\Prova Bonifiq\prova-backend-main - clean arch\ProvaPub.Application\obj\Debug\net8.0\ref\ProvaPub.Application.dll
